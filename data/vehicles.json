@@ -1,0 +1,26 @@
+[
+    {
+        "name": "BMW Core",
+        "type": "Car",
+        "price": "58700",
+        "image": "https://blog.bestride.com/wp-content/uploads/2017/05/2017-05-04-17.26.29.jpg"
+    },
+    {
+        "name": "BMW Electrified",
+        "type": "Car",
+        "price": "73400",
+        "image": "https:\/\/www.bmwusa.com\/content\/dam\/bmw\/common\/vehicles\/2024\/my25\/5-series\/sedan\/plug-in-hybrid\/mobile\/BMW-MY25-5Series-550ev-MakeItYours-Mobile.jpg"
+    },
+    {
+        "name": "BMW M",
+        "type": "Car",
+        "price": "119500",
+        "image": "https://images.dealer.com/ddc/vehicles/2025/BMW/740/Sedan/color/Tanzanite%20Blue%20II%20Metallic-C3Z-9,30,67-640-en_US.jpg"
+    },
+    {
+        "name": "BMW Electrified sav",
+        "type": "Car",
+        "price": "121000",
+        "image": "https://vehicle-images.dealerinspire.com/a76b-11002412/WBA53DB02SCU23940/72b580936710aafa10469d8dd96bd31e.jpg"
+    }
+]
